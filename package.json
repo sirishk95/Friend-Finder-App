@@ -1,0 +1,29 @@
+{
+  "name": "friend-finder-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirishk95/Friend-Finder-App.git"
+  },
+  "keywords": [
+    "GT",
+    "coding",
+    "bootcamp"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirishk95/Friend-Finder-App/issues"
+  },
+  "homepage": "https://github.com/sirishk95/Friend-Finder-App#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}
